@@ -1,0 +1,301 @@
+Id,Actor1,Actor2,Actor3,Director,Genre,Budget,Runtime,Language,LanguagesDubbedCount,TrailerViewCount
+701,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Drama,204,197,Hindi,1,8
+702,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,249,173,Hindi,7,7
+703,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Science Fiction,95,140,Hindi,9,3
+704,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Karan Johar,Comedy,180,139,Hindi,7,4
+705,Salman Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,234,148,Hindi,4,7
+706,Salman Khan,Sunny Deol,Katrina Kaif,Karan Johar,Science Fiction,184,142,Hindi,9,3
+707,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Action,176,162,Hindi,7,2
+708,Aamir Khan,Ajay Devgn,Deepika Padukone,Karan Johar,Action,90,155,Hindi,2,6
+709,Aamir Khan,Sunny Deol,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,184,109,Hindi,8,9
+710,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Drama,87,185,Hindi,4,2
+711,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,86,199,Hindi,10,5
+712,Aamir Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Romance,242,138,Hindi,6,5
+713,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Action,68,119,Hindi,3,5
+714,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Science Fiction,56,103,Hindi,8,5
+715,Aamir Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Romance,52,192,Hindi,2,9
+716,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Comedy,87,142,Hindi,5,6
+717,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Karan Johar,Science Fiction,169,152,Hindi,5,4
+718,Salman Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,172,185,Hindi,3,5
+719,Shah Rukh Khan,Sunny Deol,Deepika Padukone,Rohit Shetty,Science Fiction,204,165,Hindi,8,5
+720,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Romance,219,161,Hindi,8,7
+721,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Comedy,193,151,Hindi,1,2
+722,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Horror,106,199,Hindi,5,7
+723,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,131,108,Hindi,9,7
+724,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,109,156,Hindi,8,7
+725,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,223,189,Hindi,5,8
+726,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,220,177,Hindi,4,2
+727,Shah Rukh Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Science Fiction,105,157,Hindi,4,9
+728,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,246,190,Hindi,6,4
+729,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Action,212,175,Hindi,7,9
+730,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,129,117,Hindi,6,4
+731,Shah Rukh Khan,Sunny Deol,Priyanka Chopra,Rohit Shetty,Comedy,91,167,Hindi,5,5
+732,Aamir Khan,Akshay Kumar,Deepika Padukone,Karan Johar,Science Fiction,95,146,Hindi,2,7
+733,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Action,144,121,Hindi,2,5
+734,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Action,189,164,Hindi,10,3
+735,Salman Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,127,150,Hindi,9,6
+736,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Comedy,157,157,Hindi,10,4
+737,Salman Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Science Fiction,74,148,Hindi,6,4
+738,Aamir Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Romance,92,149,Hindi,1,6
+739,Aamir Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Comedy,86,115,Hindi,4,3
+740,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Romance,142,166,Hindi,6,5
+741,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Action,175,114,Hindi,10,2
+742,Salman Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Romance,206,197,Hindi,6,8
+743,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,245,184,Hindi,10,3
+744,Aamir Khan,Sunny Deol,Deepika Padukone,Karan Johar,Science Fiction,231,137,Hindi,2,2
+745,Aamir Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Science Fiction,168,139,Hindi,3,6
+746,Salman Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,81,150,Hindi,8,6
+747,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Drama,187,111,Hindi,3,8
+748,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Action,104,191,Hindi,8,2
+749,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,242,126,Hindi,4,6
+750,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Comedy,202,108,Hindi,7,9
+751,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Comedy,92,163,Hindi,1,9
+752,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Action,170,164,Hindi,10,6
+753,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Rohit Shetty,Action,192,167,Hindi,7,7
+754,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,113,139,Hindi,5,4
+755,Salman Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Action,212,193,Hindi,1,9
+756,Aamir Khan,Sunny Deol,Deepika Padukone,Karan Johar,Romance,57,150,Hindi,2,6
+757,Salman Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Science Fiction,109,107,Hindi,1,3
+758,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Comedy,236,108,Hindi,1,7
+759,Shah Rukh Khan,Ajay Devgn,Deepika Padukone,Karan Johar,Romance,175,118,Hindi,10,7
+760,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,84,143,Hindi,6,8
+761,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Horror,238,187,Hindi,6,5
+762,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Action,203,114,Hindi,6,2
+763,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Science Fiction,158,104,Hindi,10,4
+764,Aamir Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Action,248,104,Hindi,5,9
+765,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Horror,62,100,Hindi,1,2
+766,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Action,147,164,Hindi,8,2
+767,Salman Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Action,156,135,Hindi,9,8
+768,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Comedy,229,160,Hindi,7,9
+769,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,192,117,Hindi,5,8
+770,Salman Khan,Ajay Devgn,Priyanka Chopra,Vishal Bhardwaj,Horror,220,177,Hindi,8,7
+771,Shah Rukh Khan,Sunny Deol,Deepika Padukone,Anurag Kashyap,Science Fiction,149,140,Hindi,8,6
+772,Salman Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Action,71,148,Hindi,1,6
+773,Aamir Khan,Sunny Deol,Priyanka Chopra,Rohit Shetty,Comedy,234,175,Hindi,10,8
+774,Salman Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,127,188,Hindi,4,6
+775,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Drama,166,124,Hindi,3,6
+776,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Drama,51,130,Hindi,8,9
+777,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,80,168,Hindi,7,4
+778,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Romance,196,155,Hindi,8,9
+779,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Vishal Bhardwaj,Science Fiction,125,146,Hindi,4,7
+780,Salman Khan,Ajay Devgn,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,212,146,Hindi,7,4
+781,Shah Rukh Khan,Sunny Deol,Deepika Padukone,Anurag Kashyap,Drama,113,127,Hindi,4,7
+782,Salman Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Science Fiction,229,131,Hindi,8,3
+783,Aamir Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Horror,223,146,Hindi,9,4
+784,Aamir Khan,Ajay Devgn,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,77,107,Hindi,6,9
+785,Aamir Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Romance,77,197,Hindi,8,7
+786,Aamir Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Comedy,92,194,Hindi,9,9
+787,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Action,159,197,Hindi,6,9
+788,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Drama,172,172,Hindi,8,9
+789,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Drama,128,133,Hindi,1,9
+790,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Drama,221,141,Hindi,5,8
+791,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,174,191,Hindi,2,7
+792,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,81,111,Hindi,2,5
+793,Aamir Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Drama,204,127,Hindi,4,3
+794,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,81,113,Hindi,1,3
+795,Aamir Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Drama,68,135,Hindi,1,6
+796,Aamir Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Action,50,117,Hindi,5,8
+797,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,116,110,Hindi,2,6
+798,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Comedy,225,159,Hindi,3,6
+799,Aamir Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Horror,148,148,Hindi,10,4
+800,Aamir Khan,Sunny Deol,Deepika Padukone,Karan Johar,Action,171,121,Hindi,6,5
+801,Aamir Khan,Sunny Deol,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,80,165,Hindi,9,4
+802,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Karan Johar,Drama,216,174,Hindi,4,9
+803,Salman Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Science Fiction,231,129,Hindi,3,7
+804,Salman Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Science Fiction,82,178,Hindi,6,7
+805,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,190,182,Hindi,9,2
+806,Salman Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,199,173,Hindi,6,5
+807,Salman Khan,Sunny Deol,Priyanka Chopra,Vishal Bhardwaj,Comedy,114,118,Hindi,9,7
+808,Aamir Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Action,107,108,Hindi,3,4
+809,Salman Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Science Fiction,177,194,Hindi,8,2
+810,Salman Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Comedy,96,159,Hindi,7,3
+811,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,110,106,Hindi,1,8
+812,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,233,151,Hindi,10,3
+813,Aamir Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Romance,179,192,Hindi,2,8
+814,Aamir Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Science Fiction,137,107,Hindi,8,3
+815,Aamir Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Comedy,241,183,Hindi,4,8
+816,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,110,124,Hindi,9,7
+817,Salman Khan,Sunny Deol,Priyanka Chopra,Vishal Bhardwaj,Action,158,197,Hindi,4,9
+818,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Action,73,100,Hindi,7,3
+819,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Horror,111,140,Hindi,8,8
+820,Salman Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Romance,187,117,Hindi,9,2
+821,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,163,147,Hindi,8,8
+822,Aamir Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Action,66,200,Hindi,8,8
+823,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,79,157,Hindi,10,2
+824,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Comedy,146,102,Hindi,8,4
+825,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Drama,228,165,Hindi,5,3
+826,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,55,108,Hindi,4,6
+827,Aamir Khan,Sunny Deol,Priyanka Chopra,Rohit Shetty,Science Fiction,84,170,Hindi,8,6
+828,Salman Khan,Sunny Deol,Priyanka Chopra,Rohit Shetty,Drama,81,186,Hindi,2,2
+829,Salman Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Horror,226,170,Hindi,9,6
+830,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,198,187,Hindi,4,4
+831,Salman Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,118,175,Hindi,7,5
+832,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Drama,229,163,Hindi,1,7
+833,Aamir Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Science Fiction,212,149,Hindi,7,6
+834,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,148,115,Hindi,9,8
+835,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Action,145,127,Hindi,10,7
+836,Aamir Khan,Sunny Deol,Katrina Kaif,Karan Johar,Horror,134,104,Hindi,10,3
+837,Aamir Khan,Sunny Deol,Deepika Padukone,Rohit Shetty,Science Fiction,189,109,Hindi,10,8
+838,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Vishal Bhardwaj,Romance,149,151,Hindi,7,2
+839,Aamir Khan,Sunny Deol,Deepika Padukone,Anurag Kashyap,Action,179,144,Hindi,2,5
+840,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Comedy,240,159,Hindi,6,8
+841,Aamir Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Science Fiction,196,168,Hindi,6,8
+842,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Romance,221,113,Hindi,7,7
+843,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Comedy,194,172,Hindi,1,9
+844,Salman Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,126,178,Hindi,2,3
+845,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Drama,168,175,Hindi,5,7
+846,Aamir Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Action,206,185,Hindi,3,3
+847,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,229,115,Hindi,8,3
+848,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,55,139,Hindi,4,4
+849,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Horror,113,145,Hindi,2,3
+850,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Action,237,157,Hindi,3,2
+851,Salman Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Comedy,121,186,Hindi,4,7
+852,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Anurag Kashyap,Horror,78,171,Hindi,9,9
+853,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Romance,193,185,Hindi,4,2
+854,Aamir Khan,Ajay Devgn,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,65,198,Hindi,4,6
+855,Salman Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,198,193,Hindi,10,5
+856,Aamir Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Comedy,163,174,Hindi,5,7
+857,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,249,103,Hindi,7,5
+858,Shah Rukh Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Action,138,180,Hindi,5,8
+859,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,132,158,Hindi,7,9
+860,Aamir Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Action,81,164,Hindi,3,5
+861,Salman Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Comedy,67,196,Hindi,5,9
+862,Aamir Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Comedy,173,172,Hindi,8,6
+863,Salman Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Drama,240,133,Hindi,3,7
+864,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,210,112,Hindi,2,2
+865,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,100,113,Hindi,1,9
+866,Salman Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Science Fiction,133,108,Hindi,2,8
+867,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,229,158,Hindi,7,8
+868,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Action,118,141,Hindi,8,2
+869,Salman Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,108,178,Hindi,10,4
+870,Salman Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Science Fiction,148,125,Hindi,4,7
+871,Shah Rukh Khan,Sunny Deol,Deepika Padukone,Rohit Shetty,Drama,127,171,Hindi,10,6
+872,Salman Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Science Fiction,53,119,Hindi,9,7
+873,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,93,138,Hindi,7,2
+874,Salman Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Science Fiction,245,137,Hindi,3,6
+875,Salman Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Comedy,120,160,Hindi,3,2
+876,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,201,162,Hindi,9,7
+877,Aamir Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Romance,103,188,Hindi,8,6
+878,Salman Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Science Fiction,170,123,Hindi,5,2
+879,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,73,109,Hindi,3,4
+880,Aamir Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Action,221,120,Hindi,10,3
+881,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Action,158,170,Hindi,6,8
+882,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,190,178,Hindi,7,3
+883,Aamir Khan,Sunny Deol,Priyanka Chopra,Rohit Shetty,Comedy,193,126,Hindi,4,8
+884,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Horror,54,163,Hindi,10,6
+885,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Karan Johar,Comedy,143,146,Hindi,10,7
+886,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Comedy,72,178,Hindi,6,8
+887,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Horror,122,155,Hindi,8,7
+888,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Science Fiction,250,100,Hindi,2,8
+889,Aamir Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Action,142,155,Hindi,6,8
+890,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Romance,96,125,Hindi,5,8
+891,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,54,177,Hindi,2,5
+892,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,230,190,Hindi,8,5
+893,Aamir Khan,Ajay Devgn,Deepika Padukone,Karan Johar,Drama,100,121,Hindi,5,2
+894,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Action,249,117,Hindi,5,6
+895,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,233,151,Hindi,9,6
+896,Aamir Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Science Fiction,149,183,Hindi,8,6
+897,Aamir Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Action,103,107,Hindi,10,8
+898,Aamir Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Science Fiction,123,102,Hindi,1,8
+899,Salman Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,53,200,Hindi,2,7
+900,Salman Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,73,185,Hindi,3,3
+901,Aamir Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Science Fiction,208,175,Hindi,5,2
+902,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Science Fiction,99,128,Hindi,10,3
+903,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,192,198,Hindi,9,4
+904,Salman Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Romance,130,100,Hindi,5,8
+905,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,73,181,Hindi,8,2
+906,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Romance,243,137,Hindi,2,7
+907,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Action,126,190,Hindi,1,7
+908,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Comedy,122,140,Hindi,6,4
+909,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,137,164,Hindi,5,3
+910,Salman Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Drama,169,125,Hindi,3,9
+911,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,68,128,Hindi,2,5
+912,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Drama,104,107,Hindi,6,6
+913,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Horror,244,183,Hindi,1,7
+914,Aamir Khan,Sunny Deol,Deepika Padukone,Vishal Bhardwaj,Science Fiction,187,105,Hindi,8,3
+915,Aamir Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Action,187,184,Hindi,10,9
+916,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Science Fiction,78,129,Hindi,9,3
+917,Salman Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Science Fiction,140,123,Hindi,3,3
+918,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Horror,124,132,Hindi,8,3
+919,Aamir Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Science Fiction,67,176,Hindi,6,4
+920,Salman Khan,Sunny Deol,Deepika Padukone,Vishal Bhardwaj,Horror,234,157,Hindi,4,5
+921,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Action,123,101,Hindi,9,7
+922,Shah Rukh Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Horror,182,167,Hindi,10,8
+923,Shah Rukh Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Action,109,122,Hindi,6,7
+924,Aamir Khan,Sunny Deol,Deepika Padukone,Vishal Bhardwaj,Science Fiction,186,178,Hindi,1,5
+925,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,102,124,Hindi,7,9
+926,Shah Rukh Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Science Fiction,240,179,Hindi,8,2
+927,Aamir Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Horror,182,109,Hindi,3,6
+928,Aamir Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Action,193,143,Hindi,3,2
+929,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,53,157,Hindi,4,7
+930,Aamir Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Action,93,107,Hindi,1,2
+931,Aamir Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Horror,154,151,Hindi,8,7
+932,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Drama,250,182,Hindi,2,8
+933,Aamir Khan,Ajay Devgn,Deepika Padukone,Anurag Kashyap,Drama,157,197,Hindi,7,6
+934,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,72,117,Hindi,8,4
+935,Salman Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Horror,66,180,Hindi,1,2
+936,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,218,139,Hindi,7,6
+937,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Rohit Shetty,Science Fiction,225,180,Hindi,9,9
+938,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Karan Johar,Horror,230,128,Hindi,8,9
+939,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Science Fiction,125,118,Hindi,7,2
+940,Salman Khan,Ajay Devgn,Deepika Padukone,Vishal Bhardwaj,Action,244,148,Hindi,6,4
+941,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Romance,170,112,Hindi,9,4
+942,Aamir Khan,Akshay Kumar,Deepika Padukone,Karan Johar,Comedy,109,184,Hindi,7,9
+943,Salman Khan,Sunny Deol,Katrina Kaif,Karan Johar,Science Fiction,142,159,Hindi,2,9
+944,Aamir Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Comedy,219,171,Hindi,9,9
+945,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Action,188,155,Hindi,6,2
+946,Salman Khan,Sunny Deol,Katrina Kaif,Karan Johar,Science Fiction,103,105,Hindi,8,5
+947,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Action,107,174,Hindi,3,8
+948,Aamir Khan,Akshay Kumar,Deepika Padukone,Anurag Kashyap,Science Fiction,118,113,Hindi,3,4
+949,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Drama,239,107,Hindi,6,2
+950,Aamir Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Science Fiction,90,126,Hindi,5,8
+951,Salman Khan,Akshay Kumar,Deepika Padukone,Vishal Bhardwaj,Comedy,248,129,Hindi,9,7
+952,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Action,112,179,Hindi,3,3
+953,Aamir Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Horror,59,166,Hindi,4,7
+954,Salman Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Drama,176,118,Hindi,2,5
+955,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Action,94,103,Hindi,3,7
+956,Aamir Khan,Ajay Devgn,Katrina Kaif,Vishal Bhardwaj,Science Fiction,138,172,Hindi,3,3
+957,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Science Fiction,189,149,Hindi,6,2
+958,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Karan Johar,Romance,62,112,Hindi,5,9
+959,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Action,201,110,Hindi,5,2
+960,Salman Khan,Ajay Devgn,Priyanka Chopra,Rohit Shetty,Drama,133,147,Hindi,1,4
+961,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Comedy,165,149,Hindi,10,2
+962,Salman Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Action,183,175,Hindi,1,2
+963,Shah Rukh Khan,Sunny Deol,Deepika Padukone,Anurag Kashyap,Science Fiction,242,110,Hindi,2,6
+964,Shah Rukh Khan,Akshay Kumar,Deepika Padukone,Anurag Kashyap,Romance,117,143,Hindi,10,8
+965,Aamir Khan,Akshay Kumar,Katrina Kaif,Rohit Shetty,Action,111,137,Hindi,3,8
+966,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Science Fiction,99,159,Hindi,1,4
+967,Aamir Khan,Sunny Deol,Priyanka Chopra,Karan Johar,Science Fiction,113,149,Hindi,6,3
+968,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Science Fiction,127,135,Hindi,10,5
+969,Aamir Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Action,130,103,Hindi,9,5
+970,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,104,137,Hindi,7,9
+971,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Science Fiction,148,199,Hindi,10,7
+972,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Comedy,84,140,Hindi,7,3
+973,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Action,135,130,Hindi,3,5
+974,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,199,163,Hindi,10,2
+975,Salman Khan,Akshay Kumar,Deepika Padukone,Rohit Shetty,Romance,65,171,Hindi,1,8
+976,Aamir Khan,Sunny Deol,Priyanka Chopra,Anurag Kashyap,Science Fiction,151,192,Hindi,8,4
+977,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Comedy,57,173,Hindi,5,3
+978,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Anurag Kashyap,Science Fiction,102,193,Hindi,5,6
+979,Aamir Khan,Ajay Devgn,Katrina Kaif,Karan Johar,Horror,122,146,Hindi,1,5
+980,Aamir Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Action,53,139,Hindi,9,9
+981,Shah Rukh Khan,Akshay Kumar,Katrina Kaif,Anurag Kashyap,Drama,201,152,Hindi,1,5
+982,Aamir Khan,Akshay Kumar,Katrina Kaif,Vishal Bhardwaj,Science Fiction,232,155,Hindi,6,7
+983,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,104,194,Hindi,6,8
+984,Shah Rukh Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Action,151,133,Hindi,4,4
+985,Aamir Khan,Sunny Deol,Deepika Padukone,Karan Johar,Science Fiction,125,125,Hindi,1,7
+986,Shah Rukh Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Horror,88,138,Hindi,6,4
+987,Salman Khan,Ajay Devgn,Deepika Padukone,Rohit Shetty,Comedy,132,113,Hindi,9,2
+988,Salman Khan,Akshay Kumar,Priyanka Chopra,Vishal Bhardwaj,Horror,126,154,Hindi,7,6
+989,Aamir Khan,Ajay Devgn,Katrina Kaif,Anurag Kashyap,Drama,223,167,Hindi,5,8
+990,Aamir Khan,Akshay Kumar,Deepika Padukone,Anurag Kashyap,Horror,59,190,Hindi,1,3
+991,Shah Rukh Khan,Sunny Deol,Katrina Kaif,Rohit Shetty,Action,237,178,Hindi,3,2
+992,Aamir Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Drama,138,140,Hindi,4,3
+993,Shah Rukh Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Horror,71,129,Hindi,2,3
+994,Shah Rukh Khan,Akshay Kumar,Priyanka Chopra,Karan Johar,Horror,184,188,Hindi,2,3
+995,Aamir Khan,Ajay Devgn,Deepika Padukone,Karan Johar,Action,115,182,Hindi,1,4
+996,Aamir Khan,Ajay Devgn,Katrina Kaif,Rohit Shetty,Horror,194,107,Hindi,4,5
+997,Aamir Khan,Akshay Kumar,Priyanka Chopra,Anurag Kashyap,Drama,183,184,Hindi,7,4
+998,Aamir Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Drama,175,169,Hindi,2,2
+999,Salman Khan,Akshay Kumar,Priyanka Chopra,Rohit Shetty,Action,128,146,Hindi,2,7
+1000,Aamir Khan,Ajay Devgn,Priyanka Chopra,Anurag Kashyap,Science Fiction,176,197,Hindi,4,6
